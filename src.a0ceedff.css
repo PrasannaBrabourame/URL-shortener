@@ -8889,7 +8889,7 @@ a.text-primary-desat:focus, a.text-primary-desat:hover {
 
 #landing {
    min-height: 600px;
-   background-image: url(/illustration-6-cropped.10b68457.png), url(/illustration-4-cropped.3436dc4d.png);
+   background-image: url(./illustration-6-cropped.10b68457.png), url(./illustration-4-cropped.3436dc4d.png);
    padding-top: 160px
 }
 
